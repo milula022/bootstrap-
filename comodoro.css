@@ -1,0 +1,16 @@
+
+.btn-salmon{
+    background-color: #6D4E90;
+    color: #9078AD;
+}
+.timer{
+    color: #9078AD;
+    font-size: 7em;
+    font-weight: 900;
+}
+.btn-start{
+    border-bottom: 6px solid #9266c4a9;
+    font-size: 3em;
+    text-transform: uppercase;
+    margin: 15px;
+}
